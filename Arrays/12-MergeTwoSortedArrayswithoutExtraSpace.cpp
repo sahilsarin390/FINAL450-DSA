@@ -19,7 +19,7 @@ void merge(int arr1[], int arr2[], int m, int n)
 
 int main()
 {
-    int arr1[50], arr2[50], m, n;
+    int arr1[69], arr2[69], m, n;
 
     cin >> m;
     for (int i = 0; i < m; i++)
