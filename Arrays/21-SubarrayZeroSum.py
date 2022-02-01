@@ -1,5 +1,5 @@
-# A python program to find if
-# there is a zero sum subarray
+
+# if there is a zero sum subarray
 
 
 def subArrayExists(arr, n):
